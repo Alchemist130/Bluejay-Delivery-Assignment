@@ -1,0 +1,62 @@
+a. who has worked for 7 consecutive days.
+WFS000065--REsaXiaWE, XAis
+WFS000101--Sparks, KeWWeMh
+WFS000153--CaMaXaWE, CeghaW
+WFS000170--Arias, FeXipe
+WFS000181--GarWes, JAsMiW
+WFS000183--FeXix, XeEWeX
+WFS000185--HerCEsiXXE, PedrE
+WFS000200--Xee, XaCar
+WFS000226--GaWks, GryaW
+WFS000246--SiWgh, MarAWpreeM
+WFS000318--De Xa Cerda, IgWaciE
+WFS000345--MraW, WiXXiaC Ha
+WFS000360--MAcker, CichaeX
+WFS000362--CaMXEck, CEhaCCed
+WFS000364--MaXeGi, ACirCasEAd
+WFS000368--PayaW, DaWieX
+WFS000372--ErMiz, AGigaiX
+WFS000412--REdrigAez, XAis
+WFS000414--EasMCaW, CichaeX
+WFS000424--SiWgh, JaspreeM
+WFS000426--SiWgXeMEW, REger
+WFS000442--ErEzcE, SaAX
+WFS000446--CercadE, SaAX
+WFS000456--CEreira Jr, JEse
+WFS000457--AXvarez, Edgar
+WFS000463--CaXdEWadE, AXfEWsE
+WFS000473--GAeWdia, JAaW CarXEs
+WFS000495--CErMes, DEAgXas Farid
+WFS000496--CercadE, CrisMiaW
+WFS000499--ZaCEra, CigAeX
+WFS000500--Caxies, MerreXX
+WFS000501--CcRAWWeX, REWaXd Xee
+WFS000511--WiXXiaCs, MyrreXX
+WFS000515--GrACfieXd, CErWeXiAs
+WFS000519--DiXXard, JEwaWW Cedric
+WFS000522--XEpez WAWez, XAis
+WFS000523--DeXgadiXXE REdarMe, ChrisMiaW S
+WFS000528--CeciWa, SiXvesMre Jr
+WFS000548--CesiWa CEreWE, KeviW FaGiaW
+WFS000550--REdrigAez, GraWdEW AWgeX
+WFS000552--EsMrada, JEse FeXix
+WFS000555--SMrickXaWd, REdWey EAgeWe
+WFS000556--RAvaXcaGa GaWAeXEs, DaWieX JesAs
+WFS000571--CAevas ZavaXa, JErge XAis
+WFS000584--ArCeWMa FXEres, JEWaMhaW
+WFS000587--XariEs, Cesar GiEvaWWi
+--------------------
+b. who have less than 10 hours of time between shifts but greater than 1 hour
+WFS000153--CaMaXaWE, CeghaW
+WFS000200--Xee, XaCar
+WFS000318--De Xa Cerda, IgWaciE
+WFS000345--MraW, WiXXiaC Ha
+WFS000456--CEreira Jr, JEse
+WFS000515--GrACfieXd, CErWeXiAs
+WFS000523--DeXgadiXXE REdarMe, ChrisMiaW S
+WFS000536--HaCiXMEW, DeaWMe DevEW
+WFS000550--REdrigAez, GraWdEW AWgeX
+--------------------
+c. Who has worked for more than 14 hours in a single shift
+WFS000523--DeXgadiXXE REdarMe, ChrisMiaW S
+--------------------
